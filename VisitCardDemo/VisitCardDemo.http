@@ -1,0 +1,6 @@
+@VisitCardDemo_HostAddress = http://localhost:5062
+
+GET {{VisitCardDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
